@@ -1,0 +1,10 @@
+name = "decision-journal"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "public"
+
+# After creating your KV namespace (see README), paste its id below.
+# You can also add this binding from the dashboard instead:
+# Pages project > Settings > Functions > KV namespace bindings
+[[kv_namespaces]]
+binding = "LEDGER_KV"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
