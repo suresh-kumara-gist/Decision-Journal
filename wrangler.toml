@@ -4,7 +4,7 @@ pages_build_output_dir = "public"
 
 [[kv_namespaces]]
 binding = "LEDGER_KV"
-id = "7a8b9c1234567890abcdef1234567890"
+id = "a6468ff4ed7941238cc42f30a1bd7ad9"
 
 # name = "decision-journal"
 # compatibility_date = "2024-09-23"
