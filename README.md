@@ -43,6 +43,11 @@ wrangler pages deploy public --project-name=decision-journal
 
 This creates the Pages project and gives you a `*.pages.dev` URL.
 
+
+note:- 
+we have deployed in paegs https://dash.cloudflare.com/e34ecc9b7001913de68c78723f91f47a/workers-and-pages/create/pages
+code pushed to github main branch automatically deploys code to cloudflare.
+
 ## 4. Bind the KV namespace to the Pages project
 
 Wrangler's `[[kv_namespaces]]` block in `wrangler.toml` covers local dev
@@ -84,6 +89,22 @@ Visit your `*.pages.dev` URL (or custom domain), pass the Access login,
 and the journal loads. Every save goes to your KV namespace; nobody
 else has a KV namespace with the same binding, so there's no
 cross-user leakage to worry about.
+
+We don't have claude api key we aren't ai intelegence is not working.
+
+write now system is not as per hour requirement. 
+
+Update fields . 
+
+list all the tasks before doing it or after doing it.
+
+export to csv and paste it into ai and ai should give me
+any tools, how we can make others do it , or else how often we are doint it,
+automate it.... basically we trying to find ideas for saas/quick commerce kind of
+company. I don't want to do it anything.
+
+
+
 
 ## Notes & limits
 
