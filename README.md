@@ -90,20 +90,18 @@ and the journal loads. Every save goes to your KV namespace; nobody
 else has a KV namespace with the same binding, so there's no
 cross-user leakage to worry about.
 
-We don't have claude api key we aren't ai intelegence is not working.
+We don't have claude api key. ai intelegence is not working.
 
-write now system is not as per hour requirement. 
+currently system is not as per our requirement. 
 
 Update fields . 
 
 list all the tasks before doing it or after doing it.
 
 export to csv and paste it into ai and ai should give me
-any tools, how we can make others do it , or else how often we are doint it,
-automate it.... basically we trying to find ideas for saas/quick commerce kind of
-company. I don't want to do it anything.
-
-
+any tools, how we can make others do it, service providers or else how we can start those service,
+or else how often we are doint it, automate it.... basically we trying to find ideas for
+saas/quick commerce kind of company. I don't want to do it anything.
 
 
 ## Notes & limits
