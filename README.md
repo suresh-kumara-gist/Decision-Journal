@@ -85,7 +85,7 @@ a single-user policy costs nothing.
 
 ## 7. Use it
 
-Visit your `*.pages.dev` URL (or custom domain), pass the Access login,
+Visit your `[*.pages.dev](https://decision-journal-287.pages.dev/)` URL (or custom domain), pass the Access login,
 and the journal loads. Every save goes to your KV namespace; nobody
 else has a KV namespace with the same binding, so there's no
 cross-user leakage to worry about.
